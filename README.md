@@ -1,24 +1,34 @@
-# README
+# Online CV
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![Build Status](https://travis-ci.org/bpstein/cv.svg?branch=master)](https://travis-ci.org/bpstein/cv)
+[![Coverage Status](https://coveralls.io/repos/github/bpstein/cv/badge.svg?branch=master)](https://coveralls.io/github/bpstein/cv?branch=master) 
+[![Code Climate](https://codeclimate.com/github/bpstein/cv/badges/gpa.svg)](https://codeclimate.com/github/bpstein/cv)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4116d956f2c54eaba148f333f074deef)](https://www.codacy.com/app/bpstein/peergear?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bpstein/cv&amp;utm_campaign=Badge_Grade)
 
-Things you may want to cover:
+## Table of Contents
 
-* Ruby version
+## Project Description
 
-* System dependencies
+## Features
+### Technologies
+This project utilises the following technologies:
+* Rails 5
+* Bootstrap 
+* Google Maps
+* Postgres
 
-* Configuration
+## Getting Started
 
-* Database creation
+## Application Structure
 
-* Database initialization
+## Development
 
-* How to run the test suite
+## Testing
 
-* Services (job queues, cache servers, search engines, etc.)
+## Live Deployment
+Project has been [deployed on Heroku](http://bs-peergear.herokuapp.com/)
 
-* Deployment instructions
+## Author
+[Ben Stein](https://github.com/bpstein)
 
-* ...
+## Copyright
